@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camiseta Deportiva",
+    "precio": 599,
+    "descripcion": "Camiseta de algodón transpirable.",
+    "imagen": "https://i.pinimg.com/736x/70/c6/1d/70c61d829f558494811a37b4fbff83f4.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Tenis",
+    "precio": 2799,
+    "descripcion": "Tenis para correr con buena amortiguación.",
+    "imagen": "https://i.pinimg.com/736x/80/ad/2b/80ad2b4a581c1295fe62d5233a3c2328.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Reloj Digital",
+    "precio": 899,
+    "descripcion": "Reloj digital resistente.",
+    "imagen": "https://i.pinimg.com/736x/d3/ee/b8/d3eeb858712fd3696482370e0a13a321.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Audífonos Bluetooth",
+    "precio": 999,
+    "descripcion": "Audífonos inalámbricos con excelente sonido.",
+    "imagen": "https://i.pinimg.com/736x/36/6b/46/366b462264fcd067fe4fdbb108fd1ea6.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Laptop 15\"",
+    "precio": 15499,
+    "descripcion": "Laptop con SSD rápido y buen rendimiento.",
+    "imagen": "https://i.pinimg.com/736x/51/7f/9a/517f9ae0a4db111b97fc7f4873faf79e.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Mochila Urbana",
+    "precio": 499,
+    "descripcion": "Mochila resistente con varios compartimentos.",
+    "imagen": "https://i.pinimg.com/736x/6a/11/ec/6a11ecb90553b269ea23e60428912eda.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Botella Térmica",
+    "precio": 899,
+    "descripcion": "Mantiene bebidas frías o calientes por horas.",
+    "imagen": "https://i.pinimg.com/736x/c5/ac/93/c5ac93ea51bf9c4cd2771255b6af2229.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Mouse Inalámbrico",
+    "precio": 849,
+    "descripcion": "Mouse ergonómico para uso diario.",
+    "imagen": "https://i.pinimg.com/736x/43/62/c8/4362c806e380c57285b9c91ceba9fc50.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Teclado Mecánico",
+    "precio": 999,
+    "descripcion": "Teclado retroiluminado para gaming.",
+    "imagen": "https://i.pinimg.com/1200x/2f/54/3d/2f543d0d0ac5dcbaf621db8841aaae07.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Smartwatch",
+    "precio": 1299,
+    "descripcion": "Reloj inteligente con monitoreo de actividad.",
+    "imagen": "https://i.pinimg.com/736x/74/1a/d8/741ad835e9b8bb9a15f70141c0efdba9.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Lentes de Sol",
+    "precio": 2399,
+    "descripcion": "Protección UV y diseño clásico.",
+    "imagen": "https://i.pinimg.com/736x/20/0b/ec/200bec47dedda7574b11b3631844ac37.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Silla Gamer",
+    "precio": 3999,
+    "descripcion": "Silla ergonómica con soporte lumbar.",
+    "imagen": "https://i.pinimg.com/1200x/7f/09/4f/7f094f6ae35133e82d4e19a7a1dff8a3.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Parrilla Eléctrica",
+    "precio": 799,
+    "descripcion": "Parrilla antiadherente para uso en interiores.",
+    "imagen": "https://i.pinimg.com/736x/4f/d2/bb/4fd2bb3052273d20815bbc1c07ef3723.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Cafetera de Cápsulas",
+    "precio": 2199,
+    "descripcion": "Cafetera compacta y fácil de usar.",
+    "imagen": "https://i.pinimg.com/1200x/ef/9c/e2/ef9ce29ec5cd930e841fde477c28eb5d.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Consola Portátil",
+    "precio": 8499,
+    "descripcion": "Consola con pantalla brillante y controles cómodos.",
+    "imagen": "https://i.pinimg.com/1200x/4a/80/c1/4a80c18f7e8bccfcccab29c926c92d6d.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Smart TV 50\"",
+    "precio": 7999,
+    "descripcion": "Televisor 4K con conexión a apps de streaming.",
+    "imagen": "https://i.pinimg.com/1200x/72/40/a7/7240a7ffe87560b832c3bd5ec7331f6f.jpg"
+  },
+  {
+    "id": 17,
+    "nombre": "Plancha de Vapor",
+    "precio": 599,
+    "descripcion": "Plancha con suela antiadherente y vapor potente.",
+    "imagen": "https://i.pinimg.com/736x/a4/6f/aa/a46faae621aea75ed71b90da71e1e29f.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Set de Brochas",
+    "precio": 499,
+    "descripcion": "Brochas de maquillaje profesionales, 15 piezas.",
+    "imagen": "https://i.pinimg.com/736x/5d/f5/3e/5df53edd67596f55dabf6984baf14c17.jpg"
+  },
+  {
+    "id": 19,
+    "nombre": "Perfume 100ml",
+    "precio": 2599,
+    "descripcion": "Fragancia elegante para uso diario.",
+    "imagen": "https://i.pinimg.com/736x/f1/da/8b/f1da8bf80568070e75b73d6ab5fb2be5.jpg"
+  },
+  {
+    "id": 20,
+    "nombre": "Bocina Bluetooth",
+    "precio": 999,
+    "descripcion": "Bocina portátil resistente al agua.",
+    "imagen": "https://i.pinimg.com/736x/9b/57/41/9b574165dabd4023b947f3184d4fb160.jpg"
+  }
+]

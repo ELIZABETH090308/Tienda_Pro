@@ -1,0 +1,64 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f1f8fa;
+    padding: 20px;
+}
+
+#contenedor-productos{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.producto{
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0, 1);
+    padding: 15px;
+    width: 200px;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    border-radius: 8px;
+}
+
+.caja{
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0, 1);
+    padding: 15px;
+    width: 200px;
+    text-align: center;
+}
+
+.img2{
+   width: 20px; 
+}
+
+button{
+    background-color: white;
+    border-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 30px;
+    border-radius: 15px;
+}
+
+h1{
+    text-align: center;
+    font-family: italic;
+    font-size: 30px;
+    background-color: rgb(79, 101, 161);
+    color: white;
+}
+input{
+    width: 295px;
+    height:30px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.img3{
+ width: 20px; 
+}
